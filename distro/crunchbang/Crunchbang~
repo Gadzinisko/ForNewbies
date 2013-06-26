@@ -1,0 +1,21 @@
+## Title
+Crunchbang
+
+## URL
+http://crunchbang.org
+
+## Description
+Preconfigured Debian. Harder to learn and not similar to Windows,
+for people who want to invest some time. Great hardware support,
+very lightweight. Uses the Openbox window manager.
+Top choice for ricers.
+
+## Pros
+ - Minimal
+ - Very clean
+ - No Botnet
+ - Stable packages
+ 
+## Cons
+ - Will have to learn how to use config files
+ - Older packages
